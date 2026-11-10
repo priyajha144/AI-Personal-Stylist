@@ -59,7 +59,3 @@ python app.py
 - Personalized recommendations based on user history
 - Integration with fashion e-commerce platforms
 - Expanded sustainable fashion recommendations
-
-## Author
-
-Developed by Isha
